@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://examplesite.org/</loc>
+    <loc>https://jen-jon.github.io/663Lab/</loc>
     <lastmod>2021-05-21T14:22:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/"
+                href="https://jen-jon.github.io/663Lab/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/"
+                href="https://jen-jon.github.io/663Lab/"
                 />
   </url><url>
-    <loc>http://examplesite.org/blog/</loc>
+    <loc>https://jen-jon.github.io/663Lab/blog/</loc>
     <lastmod>2021-05-21T14:22:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/blog/"
+                href="https://jen-jon.github.io/663Lab/cn/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/"
+                href="https://jen-jon.github.io/663Lab/blog/"
                 />
   </url><url>
-    <loc>http://examplesite.org/blog/adm-pv-rcnn/</loc>
+    <loc>https://jen-jon.github.io/663Lab/blog/adm-pv-rcnn/</loc>
     <lastmod>2021-05-21T14:22:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/blog/adm-pv-rcnn/"
+                href="https://jen-jon.github.io/663Lab/cn/blog/adm-pv-rcnn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/adm-pv-rcnn/"
+                href="https://jen-jon.github.io/663Lab/blog/adm-pv-rcnn/"
                 />
   </url><url>
-    <loc>http://examplesite.org/categories/</loc>
+    <loc>https://jen-jon.github.io/663Lab/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/categories/"
+                href="https://jen-jon.github.io/663Lab/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/"
+                href="https://jen-jon.github.io/663Lab/categories/"
                 />
   </url><url>
-    <loc>http://examplesite.org/contact/</loc>
+    <loc>https://jen-jon.github.io/663Lab/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/contact/"
+                href="https://jen-jon.github.io/663Lab/cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/contact/"
+                href="https://jen-jon.github.io/663Lab/contact/"
                 />
   </url><url>
-    <loc>http://examplesite.org/faq/</loc>
+    <loc>https://jen-jon.github.io/663Lab/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/faq/"
+                href="https://jen-jon.github.io/663Lab/cn/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/faq/"
+                href="https://jen-jon.github.io/663Lab/faq/"
                 />
   </url><url>
-    <loc>http://examplesite.org/join/</loc>
+    <loc>https://jen-jon.github.io/663Lab/join/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/join/"
+                href="https://jen-jon.github.io/663Lab/cn/join/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/join/"
+                href="https://jen-jon.github.io/663Lab/join/"
                 />
   </url><url>
-    <loc>http://examplesite.org/people/</loc>
+    <loc>https://jen-jon.github.io/663Lab/people/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/people/"
+                href="https://jen-jon.github.io/663Lab/cn/people/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/people/"
+                href="https://jen-jon.github.io/663Lab/people/"
                 />
   </url><url>
-    <loc>http://examplesite.org/tags/</loc>
+    <loc>https://jen-jon.github.io/663Lab/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/tags/"
+                href="https://jen-jon.github.io/663Lab/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/"
+                href="https://jen-jon.github.io/663Lab/tags/"
                 />
   </url><url>
-    <loc>http://examplesite.org/terms-conditions/</loc>
+    <loc>https://jen-jon.github.io/663Lab/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://examplesite.org/cn/terms-conditions/"
+                href="https://jen-jon.github.io/663Lab/cn/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/terms-conditions/"
+                href="https://jen-jon.github.io/663Lab/terms-conditions/"
                 />
   </url>
 </urlset>

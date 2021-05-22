@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on 663Lab | AHAU</title>
-    <link>http://examplesite.org/people/</link>
+    <link>https://jen-jon.github.io/663Lab/people/</link>
     <description>Recent content in People on 663Lab | AHAU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Design By [Jensen](https://jen-jon.github.io/) Develop By [Jensen](https://jen-jon.github.io/)</copyright><atom:link href="http://examplesite.org/people/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Design By [Jensen](https://jen-jon.github.io/) Develop By [Jensen](https://jen-jon.github.io/)</copyright><atom:link href="https://jen-jon.github.io/663Lab/people/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
