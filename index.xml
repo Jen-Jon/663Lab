@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>663Lab | AHAU</title>
-    <link>https://jen-jon.github.io/663Lab/</link>
+    <link>https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/</link>
     <description>Recent content on 663Lab | AHAU</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Design By [Jensen](https://jen-jon.github.io/) Develop By [Jensen](https://jen-jon.github.io/)</copyright>
-    <lastBuildDate>Fri, 21 May 2021 14:22:21 +0800</lastBuildDate><atom:link href="https://jen-jon.github.io/663Lab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 14:22:21 +0800</lastBuildDate><atom:link href="https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker container&#39;s usage of ADM PV-RCNN</title>
-      <link>https://jen-jon.github.io/663Lab/blog/adm-pv-rcnn/</link>
+      <link>https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/blog/adm-pv-rcnn/</link>
       <pubDate>Fri, 21 May 2021 14:22:21 +0800</pubDate>
       
-      <guid>https://jen-jon.github.io/663Lab/blog/adm-pv-rcnn/</guid>
+      <guid>https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/blog/adm-pv-rcnn/</guid>
       <description>Note This Docker container contains a complete pipline working files from LiDAR to algorithm model.</description>
     </item>
     

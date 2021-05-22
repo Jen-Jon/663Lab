@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>常见问题 on 663实验室 | 安徽农大</title>
-    <link>https://jen-jon.github.io/663Lab/cn/faq/</link>
+    <link>https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/cn/faq/</link>
     <description>Recent content in 常见问题 on 663实验室 | 安徽农大</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Design By [Jensen](https://jen-jon.github.io/) Develop By [Jensen](https://jen-jon.github.io/)</copyright><atom:link href="https://jen-jon.github.io/663Lab/cn/faq/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Design By [Jensen](https://jen-jon.github.io/) Develop By [Jensen](https://jen-jon.github.io/)</copyright><atom:link href="https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/cn/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
