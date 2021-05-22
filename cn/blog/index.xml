@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on 663实验室 | 安徽农大</title>
-    <link>https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/cn/blog/</link>
+    <link>https://jen-jon.github.io/663Lab/cn/blog/</link>
     <description>Recent content in 博客 on 663实验室 | 安徽农大</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Design By [Jensen](https://jen-jon.github.io/) Develop By [Jensen](https://jen-jon.github.io/)</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/cn/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://jen-jon.github.io/663Lab/cn/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>中文版暂未更新请耐心等待！</title>
-      <link>https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/cn/blog/adm-pv-rcnn/</link>
+      <link>https://jen-jon.github.io/663Lab/cn/blog/adm-pv-rcnn/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://cdn.jsdelivr.net/gh/Jen-Jon/663Lab@gh-pages/cn/blog/adm-pv-rcnn/</guid>
+      <guid>https://jen-jon.github.io/663Lab/cn/blog/adm-pv-rcnn/</guid>
       <description>测试文档 这个markdown文档主要测试文档内容是否显示正常!
 测试 1 测试 2 测试 3 测试 4 测试 5 测试 6  测试!</description>
     </item>
