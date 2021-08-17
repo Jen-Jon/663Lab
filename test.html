@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="telphone=no, email=no" />
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <meta name="screen-orientation" content="portrait">
+    <meta name="x5-orientation" content="portrait">
+    <meta name="msapplication-tap-highlight" content="no">
+    <title>Key Guardian | 🔒密钥卫士</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Jen-Jon/SafeKey/src/style.css">
+    <script type="text/javascript" defer=true src="https://cdn.jsdelivr.net/gh/Jen-Jon/SafeKey/src/jsHashes.js"></script>
+    <script type="text/javascript" defer=true src="https://cdn.jsdelivr.net/gh/Jen-Jon/SafeKey/src/action.js"></script>
+</head>
+<body>
+    <div class="main">
+        <h1>🔒密钥卫士(Key Guardian)</h1>
+        <table cellspacing="0" border="0">
+            <tr>
+                <td width="60"><span>加密类型</span></td>
+                <td>
+                    <select id="type">
+                        <option value="MD5">MD5</option>
+                        <option value="SHA1">SHA1</option>
+                        <option value="SHA256">SHA256</option>
+                        <option value="SHA512">SHA512</option>
+                        <option value="RMD160">RMD160</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><span>原始密码</span></td>
+                <td>
+                    <input id="content" type="text" placeholder="Your Ori password">
+                </td>
+            </tr>
+            <tr>
+                <td><span>哈希加盐</span></td>
+                <td><input id="hmac" type="text" placeholder="Your Salt value"></td>
+            </tr>
+            <tr>
+                <td><span>输出长度<br/><code id="length-show">14</code></span></td>
+                <td>
+                    <input id="length" type="range" max="40" min="1" step="1" value="14" oninput="range()" onchange="range()">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <span id="result"></span>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button onclick="gen()">生成密码</button>
+                </td>
+            </tr>
+        </table>
+        <footer class="footer">
+            <small class="text-muted">Designed with ❤️ & 🔒 by <a class="theme-link" href="https://jen-jon.github.io/" target="_blank">Jensen Zhang</a></small>
+            <br>
+            <small class="copyright">2021 &copy;  <a href="https://github.com/Jen-Jon/" target="_blank">Jensen-Jon</a></small>
+        </footer>
+    </div>
+</body>
+</html>
