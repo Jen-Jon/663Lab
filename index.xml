@@ -16,5 +16,14 @@
       <description>Note This Docker container contains a complete pipline working files from LiDAR to algorithm model.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://jen-jon.github.io/663Lab/libraries/docs/20210817/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-jon.github.io/663Lab/libraries/docs/20210817/</guid>
+      <description>Introduction The ML Peach RGB-D Dataset is composed by 2050 multi-modal images of peach on tree filelds captured using Microsoft Azure Kinect.</description>
+    </item>
+    
   </channel>
 </rss>

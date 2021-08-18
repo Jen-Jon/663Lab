@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en" class="js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <title>ML Peach RGB-D Dataset</title>
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/1ab8369b-873d-483f-a927-464e1d16e1d4.woff2" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/41c8162d-c2a6-49b0-8139-8bebab187588.woff2" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/4fe94f2e-7892-4785-9663-0350a7adf8c0.woff" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/5b4bd9d6-75be-4d76-8292-7f6434b9e997.woff" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/6e8e8927-5a98-49ae-9123-db1798ec6d92.woff2" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/92d26a85-ea20-4552-bb3c-99a60834c026.woff2" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/d55eb20c-e9fb-4911-91af-30bb4442c36c.woff" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/d6d343a4-2018-4e17-9f75-93a29f4d6212.woff" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/dbe0788d-533f-4e84-b346-1f68c19853f9.woff" rel="prefetch">
+    <link as="font" crossorigin="" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/e6beefbb-4014-4efa-961b-7762af9aefef.woff2" rel="prefetch">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous">
+    <style>@font-face{font-family:mark;font-weight:900;src:url(/fonts/files/1ab8369b-873d-483f-a927-464e1d16e1d4.woff2)format("woff2"),url(/fonts/files/d55eb20c-e9fb-4911-91af-30bb4442c36c.woff)format("woff")}@font-face{font-family:mark;font-weight:700;font-style:italic;src:url(/fonts/files/6e8e8927-5a98-49ae-9123-db1798ec6d92.woff2)format("woff2"),url(/fonts/files/dbe0788d-533f-4e84-b346-1f68c19853f9.woff)format("woff")}@font-face{font-family:mark;font-weight:700;src:url(/fonts/files/41c8162d-c2a6-49b0-8139-8bebab187588.woff2)format("woff2"),url(/fonts/files/4fe94f2e-7892-4785-9663-0350a7adf8c0.woff)format("woff")}@font-face{font-family:mark;font-weight:400;font-style:italic;src:url(/fonts/files/92d26a85-ea20-4552-bb3c-99a60834c026.woff2)format("woff2"),url(/fonts/files/d6d343a4-2018-4e17-9f75-93a29f4d6212.woff)format("woff")}@font-face{font-family:mark;font-weight:400;src:url(/fonts/files/e6beefbb-4014-4efa-961b-7762af9aefef.woff2)format("woff2"),url(/fonts/files/5b4bd9d6-75be-4d76-8292-7f6434b9e997.woff)format("woff")}</style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/style.min.c4965d4d6b29153b51e3f2b28297216426c9e7166c6f99087ead6b3763ed92bc.css">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/index.min.ccb987b344227bbd515524ad4556d591667faa4973fc75e26d915d70a553518b.js" defer=""></script>
+    <script src="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/script.js" site="KXXQSWVI" defer=""></script>
+
+  </head>
+  <body class="theme-alt">
+    <div class="page-container">
+      <header class="z-50 flex items-center w-full lg:py-4">
+        <div class="flex flex-wrap items-center justify-between w-full mx-auto max-w-7xl lg:flex-no-wrap">
+          <a href="https://663lab.com/libraries/datasets/20210817" class="flex items-center py-8 pl-4 sm:py-4 lg:order-1">
+            <div class="w-20rem">
+              <img src="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/663libs.png">
+            </div>
+          </a>
+          <nav x-data="{ nav_slide: false }" class="print:hidden relative z-10 flex flex-wrap items-center flex-shrink-0 w-full py-2 text-lg text-gray-700 bg-gray-200 sm:bg-transparent sm:static sm:flex-no-wrap lg:order-2 lg:w-auto lg:bg-transparent md:text-base">
+            <div class="flex items-center justify-between flex-shrink-0 w-full sm:hidden sm:w-auto sm:flex-shrink">
+              <a class="block py-1 mx-4 my-1 transition duration-500 ease-in-out border-b border-transparent hover:text-primary-500 hover:border-primary-500" href="https://663lab.com/"><i class="fas fa-home"></i> 663Lab</a>
+            </div>
+            <div x-bind:class="{ &#39;active&#39;: nav_slide }" class="flex flex-wrap items-center flex-shrink-0 block w-full text-gray-700 bg-gray-300 border-t border-b border-gray-800 md:bg-transparent mobile-nav sm:bg-transparent sm:border-0 sm:w-auto sm:flex sm:flex-shrink">
+              <a class="hidden sm:block mx-10px my-4 py-1 sm:my-1 sm:py-1 hover:text-primary-500 border-b border-transparent hover:border-primary-500 duration-500 ease-in-out transition" href="https://663lab.com/"><i class="fas fa-home"></i> 663Lab</a>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <div>
+        <div style="background: url('https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/dataset_header.png');" class="div-bg bg-center bg-no-repeat bg-cover hero bg-gradient-tr-primary text-theme bg-map">
+          <div class="max-w-3xl pt-0 pb-12 mx-auto md:pt-8 md:pb-32">
+            <div class="flex items-center">
+              <div class="container">
+                <div class="mb-6 text-4xl font-black leading-tight text-center md:mb-12 md:text-6xl">ML Peach RGB-D Dataset</div>
+                <div class="text-3xl font-bold text-center text-gray-200">
+                  <i class="fas fa-link"></i>
+                  <a href="https://663lab.com/libraries/datasets/20210817" class="no-underline hover:text-gray-300">libraries/datasets/20210817</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="py-16 text-gray-100 bg-white">
+          <div class="container relative text-black">
+            <div>
+              <h1 class="z-40 text-3rem font-black text-center lg:text-6xl">Multi-label peach RGB-D dataset</h1>
+              <h3 class="text-center text-2xl">(Including RGB images, depth images, infrared images)</h3>
+              <div class="max-w-3xl mx-auto"><div>
+                <div class="relative tnd-statement">
+                  <hr class="margin-ver-15p">
+                  <div class="text-center mt-1-5rem text-17px font-bold">
+                    Date: 2021-08-17  
+                  </div>
+                  <div class="text-center mt-0-5rem text-17px font-bold">Authors: 
+                    <a class="hover:text-primary-500 border-b border-transparent hover:border-primary-500 duration-500 ease-in-out transition" href="https://tsing-luo.github.io/">Luo Qin</a> /
+                    <a>Huo Peilin</a> /
+                    <a>Li Yipu</a> / 
+                    <a class="hover:text-primary-500 border-b border-transparent hover:border-primary-500 duration-500 ease-in-out transition" href="https://jen-jon.github.io/">Zhang Jingyao</a> 
+                  </div>
+                  <div class="relative z-50 mt-4 mb-8">
+                    <div class="w-full pad-hori-60p">
+                      <img src="https://cdn.jsdelivr.net/gh/Jen-Jon/CDN_Bank/datasets_src/peach_img.jpg">
+                    </div>
+                  </div>
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px bg-white rich-text">
+                    The ML Peach RGB-D Dataset is composed by <strong>2050</strong> multi-modal images of peach on tree filelds captured using <strong>Microsoft Azure Kinect DK</strong>. Each images contains <strong>3</strong> different modalities, including RGB images, Depth images and Infrared images.
+                  </div>
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px bg-white rich-text">
+                    All images were aligned with the RGB image and manually labelled in <strong>4</strong> classes: <strong>unobstructed</strong>, <strong>obscured by foliage</strong>, <strong>obscured by branches</strong> and <strong>obscured by fruit</strong>. 
+                  </div>
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px bg-white rich-text">
+                    Find annotations in “.txt” format inside <strong>“annotation_yolo”</strong> folder. The camera parameters for each image taken are saved in “.txt” format inside <strong>“calib”</strong> folder.  
+                  </div>
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px text-gray-600 bg-white rich-text">
+                    Get more details from
+                    <a id="a_here" href="https://tsing-luo.github.io/post/ml_peach_rgb-d_dataset/">here</a>.
+                  </div>
+                  <hr class="max-w-xl mx-auto margin-here">
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px bg-white rich-text">
+                    <span class="block font-bold">README</span>
+                    <i class="fas fa-cloud-download-alt text-red-data"></i>
+                    <a id="a_here" href="https://663lab.com/libraries/docs/20210817.md">ML_Peach_RGB-D_Dataset_README.md</a>
+                  </div>
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px bg-white rich-text">
+                    <span class="block font-bold">Demo</span>
+                    <i class="fas fa-cloud-download-alt text-red-data"></i>
+                    <a id="a_here" href="https://drive.google.com/file/d/17gA66voshvyXAPAQUvVXnL_aU4KVbB-f/view?usp=sharing">ML Peach RGB-D Demo Dataset.7z (226.7 MB)</a>
+                  </div>
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px bg-white rich-text">
+                    <span class="block font-bold">Full Dataset</span>
+                    <i class="fas fa-cloud-download-alt text-red-data"></i>
+                    <a id="a_here" href="https://drive.google.com/file/d/1__UyXooBsoPvDkucJVt93vPXXPkOWIyG/view?usp=sharing">ML Peach RGB-D Dataset.7z (4.51 GB)</a>
+                  </div>
+                  <div class="relative z-50 max-w-xl py-2 mx-auto my-10 text-17px bg-white rich-text">
+                    <span class="block font-bold">Unpacking Key</span>
+                    The key will be provided soon. Please be patient. You can download the Demo first.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bg-gray-900 footer print:hidden">
+    <div class="container px-4 py-12 mx-auto lg:py-16">
+      <div class="xl:grid xl:grid-cols-3 xl:gap-8">
+        <div class="col-span-2 text-gray-100">
+          <div class="text-2xl font-bold">
+            <i class="fas fa-balance-scale"></i>
+            <span>This dataset is licensed under the MIT LICENSE.</span>
+          </div>
+        </div>
+        <div class="col-span-2 text-gray-100">
+          <p>A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.</p>
+        </div>
+      </div>
+      <div class="pt-8 mt-8 border-t border-gray-700 md:flex md:items-center md:justify-between">
+        <p class="mt-8 text-base leading-6 text-gray-400 md:mt-0 md:order-1">© Copyright 2020-2021 <a href="https://663lab.com/">663Lab</a>.All Rights Reserved</p>
+      </div>
+    </div>
+  </div>
+  <script>
+  mendeleyWebImporter = {
+    downloadPdfs(t,e) { return this._call('downloadPdfs', [t,e]); },
+    open() { return this._call('open', []); },
+    setLoginToken(t) { return this._call('setLoginToken', [t]); },
+    _call(methodName, methodArgs) {
+      const id = Math.random();
+      window.postMessage({ id, token: '0.11051693370327631', methodName, methodArgs }, 'https://www.thenewdynamic.com');
+      return new Promise(resolve => {
+        const listener = window.addEventListener('message', event => {
+          const data = event.data;
+          if (typeof data !== 'object' || !('result' in data) || data.id !== id) return;
+          window.removeEventListener('message', listener);
+          resolve(data.result);
+        });
+      });
+    }
+  };
+  </script>
+  </body>
+</html>

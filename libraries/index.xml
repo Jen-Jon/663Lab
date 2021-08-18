@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libraries on 663Lab | AHAU</title>
+    <link>https://jen-jon.github.io/663Lab/libraries/</link>
+    <description>Recent content in Libraries on 663Lab | AHAU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright 2020 - 2021 [663Lab](https://jen-jon.github.io/663Lab/). All Rights Reserved | Develop By [Jensen-Jon](https://jen-jon.github.io/)</copyright><atom:link href="https://jen-jon.github.io/663Lab/libraries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jen-jon.github.io/663Lab/libraries/docs/20210817/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jen-jon.github.io/663Lab/libraries/docs/20210817/</guid>
+      <description>Introduction The ML Peach RGB-D Dataset is composed by 2050 multi-modal images of peach on tree filelds captured using Microsoft Azure Kinect.</description>
+    </item>
+    
+  </channel>
+</rss>
